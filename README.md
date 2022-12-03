@@ -3,4 +3,4 @@ din shum
 doe
 
 # titulli
-[send me an email](malto:adelinnna@hotmail.com)
+[send me an email](mailto:adelinnna@hotmail.com)
